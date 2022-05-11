@@ -8,7 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@headlessui/react": "^1.1.1",
+    "@headlessui/react": "^1.5.0",
     "abi-decoder": "^2.4.0",
     "csvtojson": "^2.0.10",
     "fs": "^0.0.1-security",
